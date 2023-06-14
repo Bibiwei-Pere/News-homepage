@@ -2,6 +2,7 @@
 
 ### Screenshot
 
+#### Desktop 1440px
 ![127 0 0 1_3000_(iPad Air) (1)_11zon](https://github.com/Bibiwei-Pere/News-homepage/assets/106984663/04bf7d45-83b8-41c9-8be3-efc761092788)
 
 #### Mobile 375px
