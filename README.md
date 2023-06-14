@@ -1,20 +1,7 @@
-# Frontend Mentor - News homepage solution
 
-This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.  
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
-## Overview
 
 ### Screenshot
-#### Desktop 1440px
+
 ![127 0 0 1_3000_(iPad Air) (1)_11zon](https://github.com/Bibiwei-Pere/News-homepage/assets/106984663/04bf7d45-83b8-41c9-8be3-efc761092788)
 
 #### Mobile 375px
@@ -25,7 +12,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 - Solution URL: [News-homepage](https://github.com/Bibiwei-Pere/News-homepage)
 - Live Site URL: [News-homepage](https://newspage01.netlify.app)
 
-## My process
+
 
 ### Built with
 
